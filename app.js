@@ -1,7 +1,7 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
  let amigos = [];
 
- //AQUI REALZAREMOS EL COMANDO PARA GUARDAR LOS NOMBRES DE NUESTROS AMIGOS .
+ //AQUI REALIZAREMOS EL COMANDO PARA GUARDAR LOS NOMBRES DE NUESTROS AMIGOS .
 
 function agregarAmigo() {
   let nombreAmigo = document.getElementById("amigo").value;
@@ -41,4 +41,5 @@ function sortearAmigo() {
   }
 }
    
+
   
